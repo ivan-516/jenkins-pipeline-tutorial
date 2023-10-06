@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Run Integration Tests') {
             steps {
-                echo 'PRESI SIRF LANISH HONA CHAIYE' 
+                echo 'PRESIDENT SIRF LANISH HONA CHAIYE' 
             }
         }
         stage('Publish Artifacts') {
